@@ -1,0 +1,771 @@
+{
+  "app": "hot100",
+  "version": 2,
+  "exportedAt": "2026-09-28T17:06:00.846Z",
+  "data": {
+    "preferences": {
+      "lang": "python",
+      "theme": "light",
+      "listView": "diff",
+      "collapsedGroups": [
+        "diff:easy",
+        "diff:medium",
+        "diff:hard"
+      ],
+      "editorHeight": 400,
+      "listFilters": {
+        "q": "",
+        "diff": "",
+        "tag": "",
+        "status": ""
+      },
+      "onboardingDismissed": false
+    },
+    "progress": {
+      "1": {
+        "core": {
+          "solved": true,
+          "attempts": 6
+        }
+      },
+      "2": {
+        "core": {
+          "solved": true,
+          "attempts": 5
+        }
+      },
+      "20": {
+        "core": {
+          "solved": true,
+          "attempts": 5
+        }
+      },
+      "21": {
+        "core": {
+          "solved": true,
+          "attempts": 7
+        }
+      },
+      "35": {
+        "core": {
+          "solved": true,
+          "attempts": 6
+        }
+      },
+      "70": {
+        "core": {
+          "solved": true,
+          "attempts": 7
+        }
+      },
+      "94": {
+        "core": {
+          "solved": true,
+          "attempts": 2
+        }
+      },
+      "101": {
+        "core": {
+          "solved": true,
+          "attempts": 2
+        }
+      },
+      "104": {
+        "core": {
+          "solved": true,
+          "attempts": 1
+        }
+      }
+    },
+    "mistakes": {
+      "2": {
+        "addedAt": 1790613462087,
+        "fails": 4,
+        "lastMode": "core"
+      },
+      "20": {
+        "addedAt": 1790584836279,
+        "fails": 4,
+        "lastMode": "core"
+      },
+      "21": {
+        "addedAt": 1790585866166,
+        "fails": 6,
+        "lastMode": "core"
+      },
+      "35": {
+        "addedAt": 1790589858239,
+        "fails": 2,
+        "lastMode": "core"
+      },
+      "70": {
+        "addedAt": 1790590365452,
+        "fails": 2,
+        "lastMode": "core"
+      },
+      "94": {
+        "addedAt": 1790591246302,
+        "fails": 1,
+        "lastMode": "core"
+      },
+      "101": {
+        "addedAt": 1790612349357,
+        "fails": 1,
+        "lastMode": "core"
+      }
+    },
+    "learning": {
+      "version": 2,
+      "revision": 84,
+      "problems": {
+        "1": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 6
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "assisted",
+          "rounds": 6,
+          "history": [
+            {
+              "at": 1790583397687,
+              "mode": "core",
+              "outcome": "error",
+              "assisted": true
+            },
+            {
+              "at": 1790583402915,
+              "mode": "core",
+              "outcome": "error",
+              "assisted": true
+            },
+            {
+              "at": 1790583410823,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790583455659,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            },
+            {
+              "at": 1790583486646,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            },
+            {
+              "at": 1790583905423,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            }
+          ],
+          "mistake": null,
+          "review": {
+            "stage": 0,
+            "dueAt": 1790669810823,
+            "lastReviewedAt": 0
+          },
+          "assist": {
+            "assisted": true,
+            "hintLevel": 0,
+            "revealed": true
+          }
+        },
+        "2": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 5
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "assisted",
+          "rounds": 5,
+          "history": [
+            {
+              "at": 1790613462087,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790613475151,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790613531949,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790613573217,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790613624405,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            }
+          ],
+          "mistake": {
+            "addedAt": 1790613462087,
+            "fails": 4,
+            "lastMode": "core",
+            "reason": "",
+            "note": ""
+          },
+          "review": {
+            "stage": 0,
+            "dueAt": 1790699862087,
+            "lastReviewedAt": 0
+          },
+          "assist": {
+            "assisted": true,
+            "hintLevel": 0,
+            "revealed": true
+          }
+        },
+        "20": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 5
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "assisted",
+          "rounds": 5,
+          "history": [
+            {
+              "at": 1790584836279,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790584872918,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790584949547,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790584950948,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790585054997,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            }
+          ],
+          "mistake": {
+            "addedAt": 1790584836279,
+            "fails": 4,
+            "lastMode": "core",
+            "reason": "",
+            "note": ""
+          },
+          "review": {
+            "stage": 0,
+            "dueAt": 1790671236279,
+            "lastReviewedAt": 0
+          },
+          "assist": {
+            "assisted": true,
+            "hintLevel": 0,
+            "revealed": true
+          }
+        },
+        "21": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 7
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "independent",
+          "rounds": 7,
+          "history": [
+            {
+              "at": 1790585866166,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790588001589,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790588021418,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790588604825,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790588619599,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790588636391,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790588772084,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": false
+            }
+          ],
+          "mistake": {
+            "addedAt": 1790585866166,
+            "fails": 6,
+            "lastMode": "core",
+            "reason": "",
+            "note": ""
+          },
+          "review": {
+            "stage": 0,
+            "dueAt": 1790672266166,
+            "lastReviewedAt": 0
+          },
+          "assist": {
+            "assisted": true,
+            "hintLevel": 0,
+            "revealed": true
+          }
+        },
+        "35": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 6
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "independent",
+          "rounds": 6,
+          "history": [
+            {
+              "at": 1790589858239,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790589891736,
+              "mode": "core",
+              "outcome": "error",
+              "assisted": false
+            },
+            {
+              "at": 1790589966339,
+              "mode": "core",
+              "outcome": "error",
+              "assisted": false
+            },
+            {
+              "at": 1790589990253,
+              "mode": "core",
+              "outcome": "error",
+              "assisted": false
+            },
+            {
+              "at": 1790590054249,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": false
+            },
+            {
+              "at": 1790590155764,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": false
+            }
+          ],
+          "mistake": {
+            "addedAt": 1790589858239,
+            "fails": 2,
+            "lastMode": "core",
+            "reason": "边界遗漏",
+            "note": "由于int的向下取整 会出现mid角标一直到不了数组最末尾情况"
+          },
+          "review": {
+            "stage": 0,
+            "dueAt": 1790676258239,
+            "lastReviewedAt": 0
+          }
+        },
+        "70": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 7
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "assisted",
+          "rounds": 7,
+          "history": [
+            {
+              "at": 1790590284957,
+              "mode": "core",
+              "outcome": "error",
+              "assisted": false
+            },
+            {
+              "at": 1790590311767,
+              "mode": "core",
+              "outcome": "error",
+              "assisted": false
+            },
+            {
+              "at": 1790590451067,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            },
+            {
+              "at": 1790590471507,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            },
+            {
+              "at": 1790590489111,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790590550562,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790590557317,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            }
+          ],
+          "mistake": {
+            "addedAt": 1790590365452,
+            "fails": 2,
+            "lastMode": "core",
+            "reason": "",
+            "note": ""
+          },
+          "review": {
+            "stage": 0,
+            "dueAt": 1790676765452,
+            "lastReviewedAt": 0
+          },
+          "assist": {
+            "assisted": true,
+            "hintLevel": 0,
+            "revealed": true
+          }
+        },
+        "94": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 2
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "assisted",
+          "rounds": 2,
+          "history": [
+            {
+              "at": 1790591246302,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790591270455,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            }
+          ],
+          "mistake": {
+            "addedAt": 1790591246302,
+            "fails": 1,
+            "lastMode": "core",
+            "reason": "",
+            "note": ""
+          },
+          "review": {
+            "stage": 0,
+            "dueAt": 1790677646302,
+            "lastReviewedAt": 0
+          },
+          "assist": {
+            "assisted": true,
+            "hintLevel": 0,
+            "revealed": true
+          }
+        },
+        "101": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 2
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "assisted",
+          "rounds": 2,
+          "history": [
+            {
+              "at": 1790612349357,
+              "mode": "core",
+              "outcome": "fail",
+              "assisted": true
+            },
+            {
+              "at": 1790612404536,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": true
+            }
+          ],
+          "mistake": {
+            "addedAt": 1790612349357,
+            "fails": 1,
+            "lastMode": "core",
+            "reason": "",
+            "note": ""
+          },
+          "review": {
+            "stage": 0,
+            "dueAt": 1790698749357,
+            "lastReviewedAt": 0
+          },
+          "assist": {
+            "assisted": true,
+            "hintLevel": 0,
+            "revealed": true
+          }
+        },
+        "104": {
+          "modes": {
+            "core": {
+              "solved": true,
+              "attempts": 1
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": "independent",
+          "rounds": 1,
+          "history": [
+            {
+              "at": 1790612653091,
+              "mode": "core",
+              "outcome": "pass",
+              "assisted": false
+            }
+          ],
+          "mistake": null,
+          "review": null
+        },
+        "136": {
+          "modes": {
+            "core": {
+              "solved": false,
+              "attempts": 0
+            },
+            "acm": {
+              "solved": false,
+              "attempts": 0
+            }
+          },
+          "mastery": null,
+          "rounds": 0,
+          "history": [],
+          "mistake": null,
+          "review": null,
+          "assist": {
+            "assisted": true,
+            "hintLevel": 1,
+            "revealed": false
+          }
+        }
+      }
+    },
+    "drafts": {
+      "[\"21\",\"core\",\"python\"]": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\n\ndef mergeTwoLists(list1, list2):\n    # list1 / list2 为两条升序链表的头节点（ListNode），返回合并后的头节点\n    \n    if list1 == None:\n        return list2\n    if list2 == None:\n        return list1\n\n    answer = ListNode()\n    if list1.val < list2.val:\n        answer.val = list1.val\n        list1 = list1.next\n    else:\n        answer.val =list2.val\n        list2 = list2.next\n    tmp = answer\n    while list1 and list2:\n        if list1.val < list2.val:\n            new = ListNode()\n            new.val = list1.val\n            new.next = None\n            tmp.next = new\n            tmp = tmp.next\n            list1 = list1.next\n        else:\n            new = ListNode()\n            new.val = list2.val\n            new.next = None\n            tmp.next = new\n            tmp = tmp.next\n            list2 = list2.next\n    if list1 == None:\n        tmp.next = list2\n    else:\n        tmp.next = list1\n    return answer    \n    pass\n",
+      "[\"2\",\"acm\",\"python\"]": "# ACM 模式：用 input() 或 sys.stdin 读输入，用 print 输出答案\n# 输入格式：第一行 n，第二行 n 个整数；第三行 m，第四行 m 个整数\nimport sys\n\nclass ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\n\nlines = sys.stdin.read().split('\\n')\nn = int(lines[0])\na = list(map(int, lines[1].split())) if n > 0 else []\nm = int(lines[2])\nb = list(map(int, lines[3].split())) if m > 0 else []\n\n# 用 a、b 构造两条链表，逐位相加后用 print 输出结果的各位\n",
+      "[\"1\",\"core\",\"cpp\"]": "#include <vector>\n#include <string>\n#include <unordered_map>\n#include <unordered_set>\n#include <queue>\n#include <stack>\n#include <deque>\n#include <list>\n#include <algorithm>\n#include <numeric>\n#include <cmath>\n#include <climits>\nusing namespace std;\n\n// 返回两个下标组成的 vector\nvector<int> twoSum(vector<int>& nums, int target) {\n    // TODO: 在这里实现\n    return {};\n}\n",
+      "[\"knowledge:backtracking\",\"article\",\"state\"]": "studying",
+      "[\"knowledge:graph-dfs-bfs\",\"article\",\"state\"]": "studying",
+      "[\"20\",\"core\",\"cpp\"]": "#include <vector>\n#include <string>\n#include <unordered_map>\n#include <unordered_set>\n#include <queue>\n#include <stack>\n#include <deque>\n#include <list>\n#include <algorithm>\n#include <numeric>\n#include <cmath>\n#include <climits>\nusing namespace std;\n\n// 判断括号字符串 s 是否有效\nbool isValid(string s) {\n    // TODO: 在这里实现\n    return false;\n}\n",
+      "[\"3\",\"core\",\"python\"]": "def lengthOfLongestSubstring(s):\n    # 返回最长无重复字符子串的长度\n    pass\n",
+      "[\"104\",\"acm\",\"python\"]": "# ACM 模式：用 input() 或 sys.stdin 读输入，用 print 输出答案\n# 输入格式：第一行 n，第二行 n 个标记（整数或 null，层序；n = 0 时为空行）\nimport sys\n\nclass TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left = left\n        self.right = right\n\nlines = sys.stdin.read().split('\\n')\nn = int(lines[0])\ntokens = lines[1].split() if n > 0 else []\n\n# 将层序标记构造成二叉树（TreeNode），计算最大深度后用 print 输出\n",
+      "[\"94\",\"acm\",\"python\"]": "# ACM 模式：用 input() 或 sys.stdin 读输入，用 print 输出答案\n# 输入格式：第一行 n，第二行 n 个标记（整数或 null，层序；n = 0 时该行为空行）\nimport sys\n\nclass TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left = left\n        self.right = right\n\nlines = sys.stdin.read().split('\\n')\nn = int(lines[0])\ntokens = lines[1].split() if n > 0 else []\n\n# 按层序构造二叉树，完成中序遍历后用 print 输出结果（空树输出一个空行）\n",
+      "[\"136\",\"core\",\"python\"]": "def singleNumber(nums):\n    # 返回只出现一次的那个整数\n    pass\n",
+      "[\"104\",\"core\",\"python\"]": "class TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left = left\n        self.right = right\n\ndef maxDepth(root):\n    # root 为二叉树根节点（TreeNode），返回最大深度（整数）\n    if root is None:\n        return 0\n    if root.left is None and root.right is None:\n        return 1\n\n    return max(maxDepth(root.left),maxDepth(root.right))+1\n    pass\n",
+      "[\"20\",\"core\",\"python\"]": "def isValid(s):\n    # 判断括号字符串 s 是否有效，返回 True / False\n    match_s = {')':'(', ']':'[', '}':'{'}\n    stack = []\n    for ch in s:\n        if ch in '([{':\n            stack.append(ch)\n        else:\n            if len(stack) == 0 or stack[-1] != match_s[ch]: #初始没有左括号或者不能匹配 倒着消掉\n                return False\n            stack.pop()#出栈\n    \n    return len(stack) == 0 #有无消除干净\n    pass\n",
+      "[\"knowledge:linked-list\",\"article\",\"state\"]": "studying",
+      "[\"98\",\"core\",\"python\"]": "def isValidBST(root):\n    # root 为二叉树根节点（TreeNode），返回是否为有效二叉搜索树（布尔值）\n    pass\n",
+      "[\"1\",\"core\",\"python\"]": "def twoSum(nums, target):\n    # 返回两个下标组成的列表\n    seen = {}\n\n    for i , x in enumerate(nums):\n        need = target - x\n        if need in seen:\n            return [seen[need], i]\n        seen[x] = i \n    \n    pass\n",
+      "[\"5\",\"core\",\"python\"]": "def longestPalindrome(s):\n    # 返回 s 的最长回文子串（答案不唯一时返回任意一个即可）\n    pass\n",
+      "[\"72\",\"core\",\"python\"]": "def minDistance(word1, word2):\n    # 返回把 word1 转换成 word2 所需的最少操作数\n    pass\n",
+      "[\"knowledge:array-hashmap\",\"article\",\"state\"]": "studying",
+      "[\"35\",\"core\",\"python\"]": "def searchInsert(nums, target):\n    # 返回目标值下标，或它应按顺序插入的位置（整数）\n    left = 0\n    right = len(nums)-1\n    if nums[right] == target:\n        return right\n    mid = int((left + right)/2)\n\n    if nums[mid] == target:\n        return mid\n    \n    if nums[left] > target:\n        return 0\n    \n    if nums[right] < target:\n        return len(nums)\n\n    while nums[mid] != target:\n        if nums[mid] > target:\n            right = mid - 1\n            # if (right - left) == 1:\n            #    return right\n            if right == left:\n                return right + 1\n        else:\n            left = mid + 1\n            if (right - left) == 1:\n                return left\n            \n        \n        mid = int((left + right) / 2)\n    \n    return mid\n    pass\n",
+      "[\"2\",\"core\",\"python\"]": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\n\ndef addTwoNumbers(l1, l2):\n    # l1、l2 为两条链表的头节点（ListNode），返回和链表的头节点\n    # 注意：请自己定义节点类来创建新节点（判题环境中 ListNode 不可直接引用）\n    ans = ListNode()\n    t = ans\n    carry = 0\n    while l1 is not None or l2 is not None:\n        x = l1.val if l1 is not None else 0\n        y = l2.val if l2 is not None else 0\n        val = x + y +carry\n        t.next = ListNode(val%10)\n        carry = val//10\n        t = t.next\n        if l1 is not None:\n            l1 = l1.next\n        if l2 is not None:\n            l2 = l2.next\n    \n    if carry > 0:\n        t.next = ListNode(carry)\n        t = t.next\n    return ans.next\n    pass\n",
+      "[\"1\",\"acm\",\"python\"]": "# ACM 模式：用 input() 或 sys.stdin 读输入，用 print 输出答案\n# 输入格式：第一行 n，第二行 n 个整数，第三行 target\nimport sys\n\nlines = sys.stdin.read().split('\\n')\nnums = list(map(int, lines[1].split()))\ntarget = int(lines[2])\n\n# 在这里写你的代码，用 print(a, b) 输出两个下标\n",
+      "[\"108\",\"core\",\"python\"]": "def sortedArrayToBST(nums):\n    # nums 为升序数组，返回平衡二叉搜索树的根节点\n    # 判题环境不提供 TreeNode 类，需要新建节点时在函数内自行定义\n    pass\n",
+      "[\"136\",\"acm\",\"python\"]": "# ACM 模式：用 input() 或 sys.stdin 读输入，用 print 输出答案\n# 输入格式：第一行 n，第二行 n 个整数\nimport sys\n\nlines = sys.stdin.read().split('\\n')\nnums = list(map(int, lines[1].split()))\n\n# 在这里写你的代码，用 print 输出答案\n",
+      "[\"knowledge:binary-search\",\"article\",\"state\"]": "studying",
+      "[\"knowledge:dynamic-programming\",\"article\",\"state\"]": "studying",
+      "[\"11\",\"core\",\"python\"]": "def maxArea(height):\n    # 返回最大水量\n    pass\n",
+      "[\"21\",\"acm\",\"python\"]": "# ACM 模式：用 input() 或 sys.stdin 读输入，用 print 输出答案\n# 输入格式：第一行 n，第二行 n 个整数（n = 0 时为空行）；第三行 m，第四行 m 个整数（m = 0 时为空行）\nimport sys\n\nclass ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\n\nlines = sys.stdin.read().split('\\n')\nn = int(lines[0])\nvals1 = list(map(int, lines[1].split())) if n > 0 else []\nm = int(lines[2])\nvals2 = list(map(int, lines[3].split())) if m > 0 else []\n\n# 构造两条链表，合并后用 print 输出结果（空链表输出空行）\n",
+      "[\"94\",\"core\",\"python\"]": "def inorderTraversal(root):\n    # root 为二叉树根节点（TreeNode），返回中序遍历结果列表\n    ans = []\n\n    def dfs(node):\n        if node is None:\n            return\n        dfs(node.left)\n        ans.append(node.val) #\n        dfs(node.right)\n    \n    dfs(root)    \n    return ans\n    pass\n",
+      "[\"101\",\"acm\",\"python\"]": "# ACM 模式：用 input() 或 sys.stdin 读输入，用 print 输出答案\n# 输入格式：第一行 n，第二行 n 个标记（整数或 null，层序；n = 0 时为空行）\n# 输出：true 或 false（小写）\nimport sys\n\nclass TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left = left\n        self.right = right\n\nlines = sys.stdin.read().split('\\n')\nn = int(lines[0])\ntokens = lines[1].split() if n > 0 else []\narr = [None if t == 'null' else int(t) for t in tokens]\n\n# 将层序标记构造成二叉树（TreeNode），判断对称后输出 true / false\n",
+      "[\"70\",\"core\",\"python\"]": "def climbStairs(n):\n    # 返回爬到 n 阶楼顶的不同方法数\n    #if n == 1:\n    #    return 1\n    #if n == 2:\n    #    return 2\n\n    #return climbStairs(n - 1) + climbStairs(n - 2) #耗时太长没跑出来结果\n\n    #a,b = 1,2\n\n    #for _ in range(2,n):\n    #    a, b = b,a+b   #遗漏边界1\n\n    a,b = 1,1\n    for _ in range(2,n + 1):\n        a, b = b,a+b\n    \n    return b\n    pass\n",
+      "[\"knowledge:binary-tree\",\"article\",\"state\"]": "studying",
+      "[\"101\",\"core\",\"python\"]": "class TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left = left\n        self.right = right\n\ndef isSymmetric(root):\n    # root 为二叉树根节点（TreeNode），返回是否轴对称（布尔值）\n    def match_tree(l1,l2):\n        if l1 is None and l2 is None:\n            return True\n        if l1 is None or l2 is None:\n            return False\n\n        if l1.val == l2.val and match_tree(l1.left,l2.right) and match_tree(l1.right,l2.left):\n            return True\n        return False\n    if root is None:\n        return True\n    return match_tree(root.left,root.right)\n    pass\n"
+    },
+    "customInputs": {
+      "[\"1\",\"acm\"]": {
+        "text": "",
+        "at": 1790579841972
+      },
+      "[\"1\",\"core\"]": {
+        "text": "",
+        "at": 1790583968093
+      },
+      "[\"2\",\"core\"]": {
+        "text": "",
+        "at": 1790613628375
+      },
+      "[\"20\",\"core\"]": {
+        "text": "",
+        "at": 1790585059807
+      },
+      "[\"21\",\"core\"]": {
+        "text": "",
+        "at": 1790588811600
+      },
+      "[\"35\",\"core\"]": {
+        "text": "",
+        "at": 1790590159888
+      },
+      "[\"70\",\"core\"]": {
+        "text": "[20]",
+        "at": 1790590559088
+      },
+      "[\"72\",\"core\"]": {
+        "text": "",
+        "at": 1790590561588
+      },
+      "[\"94\",\"core\"]": {
+        "text": "[[1,null,2,3]]",
+        "at": 1790591279672
+      },
+      "[\"94\",\"acm\"]": {
+        "text": "",
+        "at": 1790590761469
+      },
+      "[\"98\",\"core\"]": {
+        "text": "",
+        "at": 1790591282854
+      },
+      "[\"101\",\"core\"]": {
+        "text": "",
+        "at": 1790612407747
+      },
+      "[\"3\",\"core\"]": {
+        "text": "",
+        "at": 1790602960592
+      },
+      "[\"5\",\"core\"]": {
+        "text": "",
+        "at": 1790602964475
+      },
+      "[\"11\",\"core\"]": {
+        "text": "",
+        "at": 1790602966193
+      },
+      "[\"104\",\"core\"]": {
+        "text": "",
+        "at": 1790612655640
+      },
+      "[\"108\",\"core\"]": {
+        "text": "",
+        "at": 1790612673530
+      },
+      "[\"136\",\"core\"]": {
+        "text": "",
+        "at": 1790613770436
+      }
+    }
+  }
+}
